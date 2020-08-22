@@ -9,7 +9,11 @@ _在找工作的准备过程当中，打算重温一下机器学习的一些数�
 ## 向量 (Vector)
 顾名思义，即“有方向的量”，用中学教材的说法就是--同时具有大小与方向的量，与其相对的就是**标量(scalar)** 。
 
-向量本身没有什么特殊的性质，也容易理解，需要留意的是，如同数轴有单位刻度一样，向量中的每个**元素(element)** 可以理解为n个**基向量(basis)** 的叠加。
+通常提到向量，指的是列向量，行向量视为（列）向量的转置
+向量本身没有什么特殊的性质，也容易理解，需要留意的是，如同数轴有单位刻度一样，向量中的每个**元素(element)** 可以理解为n个**基向量/单位向量(basis)** 的叠加。
 如：
 
 ![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.1.png)
+由此也引出了有关向量的基本运算(operations on vecotr)：
+#### 与标量相乘(scalar multiplication)
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.2.png)
