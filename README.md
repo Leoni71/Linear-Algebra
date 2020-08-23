@@ -14,6 +14,7 @@ _在找工作的准备过程当中，打算重温一下机器学习的一些数�
 如：
 
 ![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.1.png)
+
 由此也引出了有关向量的基本运算(operations on vecotr)：
-#### 与标量相乘(scalar multiplication)
+#### 向量与标量相乘(scalar multiplication)
 ![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.2.png)
