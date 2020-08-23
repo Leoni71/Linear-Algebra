@@ -15,6 +15,38 @@ _在找工作的准备过程当中，打算重温一下机器学习的一些数�
 
 ![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.1.png)
 
-由此也引出了有关向量的基本运算(operations on vecotr)：
-#### 向量与标量相乘(scalar multiplication)
+当然，我们默认这里的两个单位向量是正交的(orthogonal)
+
+与此同时，也就能够通过勾股定理知道向量的长度，也就是一般所说的**向量的模(modulus)** 
+
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.0.png)
+
+由此也引出了有关向量的基本运算(operations on vector)和一些性质：
+
+#### 向量与标量相乘(scalar multiplication):
+
 ![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.2.png)
+
+#### 向量加减(addition&subtraction):
+
+平行四边形法则 以及 减法是加法的逆运算
+![image]()
+
+#### 内积(inner product): 
+
+![image]()
+
+#### Associativity over Addition & Scalar Multiplication: 
+
+![image]()
+![image]()
+
+#### Commutativity over Addition & Multiplication:
+
+![image]()
+![image]()
+
+#### Distributivity:
+
+![image]()
+
