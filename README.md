@@ -30,23 +30,25 @@ _在找工作的准备过程当中，打算重温一下机器学习的一些数�
 #### 向量加减(addition&subtraction):
 
 平行四边形法则 以及 减法是加法的逆运算
-![image]()
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.3.png)
 
 #### 内积(inner product): 
 
-![image]()
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.4.png)
 
 #### Associativity over Addition & Scalar Multiplication: 
 
-![image]()
-![image]()
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.5.png)
+
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.6.png)
 
 #### Commutativity over Addition & Multiplication:
 
-![image]()
-![image]()
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.7.png)
+
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.8.png)
 
 #### Distributivity:
 
-![image]()
+![image](https://github.com/Leoni71/Linear-Algebra/blob/master/img/1.9.png)
 
